@@ -7,3 +7,7 @@ This is a Android application, which shows all created apps for the
 ## Screenshots
 
 ![Home Page](doc/home_page.png)
+
+## License
+
+The contents of this repository are covered under the [MIT License](LICENSE)
